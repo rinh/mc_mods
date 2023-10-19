@@ -1,0 +1,29 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "BucketArrowPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "clientPartType": null,
+            "customVariables": [],
+            "directoryPath": "BucketArrow",
+            "metaType": "BucketArrowPartMeta",
+            "objId": "3efe140d4ae343af882cead7774eb224",
+            "partType": "BucketArrowPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "dimension": 0,
+    "forceLoad": false,
+    "name": "BucketArrow",
+    "notifyRemove": true,
+    "objId": "6bd20d6e34ff4254bf89d58f4e56d3e6",
+    "preLoad": true,
+    "presetId": "051dc1d4-6e0e-40b6-8b74-3a129d70dd8f",
+    "presetType": "空预设",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}
